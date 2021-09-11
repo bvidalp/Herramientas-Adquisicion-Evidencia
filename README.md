@@ -1,0 +1,2 @@
+# Herramientas-Adquisicion-Evidencia
+Esta descripción la haremos por medio de varias experiencias de aprendizaje: una desde Brimorlabs Windows live response, dónde veremos una herramienta automatizada de respuesta en vivo, recopila datos volátiles y crea un volcado de memoria y el segundo es desde Triage IR requiere el kit de herramientas de Sysinternals para una ejecución exitosa, donde se realizarán los pasos de una forma más amigable
